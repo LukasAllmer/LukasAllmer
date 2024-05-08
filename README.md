@@ -17,9 +17,3 @@ If you want to get in touch, you can contact me on my [LinkedIn](https://www.lin
     <img alt="Overview of LukasAllmer. Dynamically compiled statistics." src="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACRDXFDDT2THE4M2LNVTXTUCZR3SXFQ#gh-light-mode-only">
   </picture>
 </a>
-
-![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACRDXFDD5ICQ3D36J7FXDXM6ZR3SXYQ#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACRDXFDD5ICQ3D36J7FXDXM6ZR3SXYQ#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACRDXFDDT2THE4M2LNVTXTUCZR3SXFQ#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACRDXFDDT2THE4M2LNVTXTUCZR3SXFQ#gh-light-mode-only)
