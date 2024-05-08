@@ -1,6 +1,4 @@
-![Hey there! Thanks for checking out my portfolio](greeting.png)
-
-![](https://www.canva.com/design/DAGEpo6snp0/inP3iR3K9Vff9649lXumqg/watch)
+![Hey there! Thanks for checking out my portfolio](greeting.gif)
 
 # Who am I?
 I'm a passionate software engineer with a strong foundation in .NET, Java, web and mobile development. Adept at creating innovative solutions, I am dedicated to building software that matters - solutions that are not only technically excellent, but also have a meaningful impact. With a background in automation engineering and technical sales, I bring a customer-oriented mindset and project management expertise.
