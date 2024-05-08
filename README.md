@@ -5,8 +5,8 @@ I'm a passionate software engineer with a strong foundation in .NET, Java, web a
 
 If you want to get in touch, you can contact me on my [LinkedIn](https://www.linkedin.com/in/lukas-allmer/) or via my personal info on my [website](https://lukas.allmer.org).
 
-![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACRDXFDD5ICQ3D36J7FXDXM6ZR3SXYQ#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACRDXFDD5ICQ3D36J7FXDXM6ZR3SXYQ#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACRDXFDDT2THE4M2LNVTXTUCZR3SXFQ#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACRDXFDDT2THE4M2LNVTXTUCZR3SXFQ#gh-light-mode-only)
