@@ -7,13 +7,13 @@ If you want to get in touch, you can contact me on my [LinkedIn](https://www.lin
 
 <a href="https://lukas.allmer.org">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACRDXFDD5ICQ3D36J7FXDXM6ZR3SXYQ#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACRDXFDD5ICQ3D36J7FXDXM6ZR3SXYQ#gh-light-mode-only">
-    <img alt="Overview of LukasAllmer. Dynamically compiled statistics." src="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=GHSAT0AAAAAACRDXFDD5ICQ3D36J7FXDXM6ZR3SXYQ#gh-light-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=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#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=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#gh-light-mode-only">
+    <img alt="Overview of LukasAllmer. Dynamically compiled statistics." src="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/overview.svg?token=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#gh-light-mode-only">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACRDXFDDT2THE4M2LNVTXTUCZR3SXFQ#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACRDXFDDT2THE4M2LNVTXTUCZR3SXFQ#gh-light-mode-only">
-    <img alt="Overview of LukasAllmer. Dynamically compiled statistics." src="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=GHSAT0AAAAAACRDXFDDT2THE4M2LNVTXTUCZR3SXFQ#gh-light-mode-only">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=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#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=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#gh-light-mode-only">
+    <img alt="Overview of LukasAllmer. Dynamically compiled statistics." src="https://raw.githubusercontent.com/LukasAllmer/github-stats/master/generated/languages.svg?token=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#gh-light-mode-only">
   </picture>
 </a>
